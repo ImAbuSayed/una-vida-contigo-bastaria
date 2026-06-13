@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Una vida contigo bastaría
+
+This log tracks the cryptographic history and versioning for the song **Una vida contigo bastaría** (una-vida-contigo-bastaria).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:59:30.588848 | `v1` | `3839c911bc40e52b460aa742516c5bfd781864fa3646576dd1e4ed56850420b6` | `049d62175961ae807597d630668fbba22457b3c09f99f747a529cbad58b27486` | `2026-06-13_una-vida-contigo-bastaria-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
