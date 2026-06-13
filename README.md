@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Una vida contigo bastaría, lo sé
+> Esa forma de mirarme me hace enloquecer
+> Tú y yo esta noche, baby, dime qué vas a hacer
+> Si me das luz verde, a tu lado me quedaré
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
